@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BZH08_LAB04</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Все о ПК</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Бонус</string>
+    <string name="lit">Литература</string>
+    <string name="author">Жанаспай Бипан ВТиП-302</string>
+
+    <string name="additional">Компьютеры</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://cubiq.ru/luchshie-proizvoditeli-kompyuterov/?ysclid=lb672hsfvz284572081</string>
+    <string name="PC">ПК</string>
+    <string name="devices">Девайсы</string>
+    <string name="insides">Комплектующие</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">bipancool2@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Hello!</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">Нету</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>

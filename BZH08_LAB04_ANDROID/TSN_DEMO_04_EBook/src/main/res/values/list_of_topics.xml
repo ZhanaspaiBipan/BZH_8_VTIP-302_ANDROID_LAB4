@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="WhatIsComputer">Операционная система</string>
+    <string name="HistoryOfComputer">История ПК</string>
+    <string name="manuf">Факты о комп.вирусах</string>
+    <string name="prog">     Программы</string>
+
+</resources>

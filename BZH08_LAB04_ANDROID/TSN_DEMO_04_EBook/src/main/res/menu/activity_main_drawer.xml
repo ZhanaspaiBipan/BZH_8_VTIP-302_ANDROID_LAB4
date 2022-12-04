@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/WhatIsComputer"
+            android:icon="@drawable/pk"
+            android:title="@string/WhatIsComputer" />
+        <item
+            android:id="@+id/HistoryOfComputer"
+            android:icon="@drawable/pk"
+            android:title="@string/HistoryOfComputer" />
+        <item
+            android:id="@+id/manuf"
+            android:icon="@drawable/pk"
+            android:title="@string/manuf" />
+    </group>
+
+
+    <item android:title="@string/PC">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/devices"
+                    android:icon="@drawable/ic_error_outline_black_24dp"
+                    android:title="@string/devices" />
+                <item
+                    android:id="@+id/insides"
+                    android:icon="@drawable/ic_error_outline_black_24dp"
+                    android:title="@string/insides" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/additional">
+        <menu>
+            <item
+                android:id="@+id/nav_view1"
+                android:icon="@drawable/exchange_rates"
+                android:title="@string/prism_break" />
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_drafts_black_24dp"
+                android:title="@string/send_mail" />
+        </menu>
+    </item>
+
+</menu>
